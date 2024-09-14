@@ -1,0 +1,14 @@
+{
+    "transparent":120,
+    "asp_img_with_kf":1,
+    "asp_img_height_kf":1,
+    "asp_img_indent_kf":1,
+    "logopos":"ld",
+    "logotype":"pm",
+    "db_host":"",
+    "db_user":"",
+    "db_password":"",
+    "db_database":"",
+    "mysql_column_to_folder":"IDphoto",
+    "mysql_column_to_path":"URLS"
+}
