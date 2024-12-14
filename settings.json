@@ -1,10 +1,10 @@
 {
-    "transparent":120,
+    "transparent":0.5,
     "asp_img_with_kf":1,
     "asp_img_height_kf":1,
     "asp_img_indent_kf":1,
-    "logopos":"ld",
-    "logotype":"pm",
+    "logopos":"cc",
+    "logotype":"ym",
     "db_host":"",
     "db_user":"",
     "db_password":"",
